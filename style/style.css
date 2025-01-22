@@ -502,6 +502,7 @@ footer{
 }
 #style{
     margin: auto;
+    margin-left:4px;
 }
 .children{
     width:100%;
